@@ -7,7 +7,7 @@
 
 https://magento.com/
 
-# TL;DR;
+# Quick install
 
 ```bash
 $ curl -LO https://raw.githubusercontent.com/bitnami/bitnami-docker-magento/master/docker-compose.yml
